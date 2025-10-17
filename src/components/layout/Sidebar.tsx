@@ -19,7 +19,7 @@ export function Sidebar() {
       <div className="flex h-full flex-col items-center gap-8 py-8">
         {/* Logo */}
         <Link to="/" className="flex h-10 w-10 items-center justify-center rounded-lg gradient-primary">
-          <span className="text-2xl font-bold text-white">C</span>
+          <span className="text-2xl font-bold text-white">A</span>
         </Link>
 
         {/* Navigation */}
