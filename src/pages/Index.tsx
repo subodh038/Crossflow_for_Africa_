@@ -28,7 +28,7 @@ const Index = () => {
                 </div>
                 <h2 className="text-3xl font-bold mb-3">Welcome to CrossFlow</h2>
                 <p className="text-muted-foreground text-lg mb-8 max-w-md mx-auto">
-                  Connect your wallet to start sending cross-chain stablecoins with low fees across Africa
+                 Seamless on-chain payments across Africa — from cross-border remittances to merchant transactions and DeFi innovation on Celo.
                 </p>
                 <div className="flex justify-center gap-4">
                   <div className="text-center px-4">
