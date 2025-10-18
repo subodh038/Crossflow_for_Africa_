@@ -26,9 +26,6 @@ Backend / Database	Supabase (PostgreSQL + Realtime)
 Charts	Recharts
 UI Components	Shadcn/UI, Lucide Icons
 ⚙️ Setup Instructions
-1️⃣ Clone the repo
-git clone https://github.com/yourusername/crosschain-analytics.git
-cd crosschain-analytics
 
 2️⃣ Install dependencies
 npm install
