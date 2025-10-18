@@ -26,7 +26,7 @@ const Index = () => {
                     <Wallet className="h-10 w-10 text-white" />
                   </div>
                 </div>
-                <h2 className="text-3xl font-bold mb-3">Welcome to CrossFlow</h2>
+                <h2 className="text-3xl font-bold mb-3">Welcome to AFri-Cash</h2>
                 <p className="text-muted-foreground text-lg mb-8 max-w-md mx-auto">
                  Seamless on-chain payments across Africa — from cross-border remittances to merchant transactions and DeFi innovation on Celo.
                 </p>
